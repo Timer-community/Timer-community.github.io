@@ -1,6 +1,5 @@
 # Timer-community.github.io
 Аренда сайтов. Внимание чтобы арендовать пишите сюда-> timerkhan.akhmetzyanov@mail.ru
-<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">

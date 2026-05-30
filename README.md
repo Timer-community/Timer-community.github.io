@@ -1,5 +1,4 @@
 # Timer-community.github.io
-Аренда сайтов. Внимание чтобы арендовать пишите сюда-> timerkhan.akhmetzyanov@mail.ru.А ещё на почту можно оправить просьбу на заказ курсов по програмированию.
 <html lang="ru">
 <head>
     <title>Полный Python на русском</title>
